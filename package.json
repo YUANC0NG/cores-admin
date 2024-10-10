@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "author": "YUANCONG <91676844+YUANC0NG@users.noreply.github.com>",
+  "scripts": {
+    "dev": "umi dev",
+    "build": "umi build",
+    "postinstall": "umi setup",
+    "setup": "umi setup",
+    "start": "npm run dev"
+  },
+  "dependencies": {
+    "@ant-design/pro-components": "^2.7.19",
+    "@emotion/css": "^11.13.4",
+    "antd": "^5.21.2",
+    "umi": "^4.3.24"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.33",
+    "@types/react-dom": "^18.0.11",
+    "typescript": "^5.0.3"
+  }
+}
